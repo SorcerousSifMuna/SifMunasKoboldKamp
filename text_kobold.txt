@@ -1,0 +1,13 @@
+text_kobold
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:SLAIN_KOBOLD]
+
+who was too puny to live
+who scurried away from me like a frightened insect
+who gnawed old bones like a starving hound
+whose dagger snapped in two when it challenged my might
+who sought treasure and only found an early death
+who was returned to the mud puddle [PRO_POS] crawled out of
+whose insufferable utterances were silenced for good
